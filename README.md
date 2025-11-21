@@ -101,8 +101,6 @@ IEntryPoint(entryPoint).handleOps([userOp], payable(bundler));
 File                          % Lines        % Statements   % Branches     % Funcs
 src/FIRST-AA.sol              90.43% (27/29) 84.85% (28/33) 37.50% (3/8)  100.00% (9/9)
 ```
-![alt text](image.png)
-![alt text](image-1.png)
 
 ### Test Suite
 
